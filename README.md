@@ -22,14 +22,23 @@ Comprehensive analysis of Jena, Germany climate data (2009-2016). Performs time-
 
 ## Project Structure
 ├── jena_climate_2009_2016.csv          # Raw dataset
+
 ├── Climate_Analysis.ipynb               # Main Jupyter notebook
+
 ├── daily_averages.csv                   # Processed daily data
+
 ├── monthly_aggregations.csv             # Monthly extreme values
+
 ├── daily_averages_long_format.csv       # Reshaped data
+
 ├── monthly_temperature_by_year.csv      # Temperature pivot table
+
 ├── top_5_windiest_days_all_metrics.csv  # Extreme wind events
+
 ├── monthly_temperature_heatmap.png      # Visualization
+
 ├── monthly_temperature_trends.png       # Visualization
+
 └── windiest_days_detailed_analysis.png  # Visualization
 
 ## Analysis Tasks
